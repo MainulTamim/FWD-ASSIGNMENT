@@ -27,7 +27,7 @@ body {
 
 .cursor {
   font-weight: 600;
-  color: #7cfc11;
+  color: white;
   opacity: 0;
   animation: cursor 1s infinite;
 }
@@ -112,7 +112,7 @@ body {
 }
 
 .topic_header {
-  color: #7cfc11;
+  color: goldenrod;
   margin-top: 1.5em;
 }
 
